@@ -29,8 +29,7 @@ This project implements a heatwave detection system using Python and Flask. It p
 ## Code Structure
 
 - **app.py**: The main script that runs the Flask API and handles incoming prediction requests.
-- **model.pkl**: A serialized machine learning model trained to predict heatwaves.
-- **requirements.txt**: Lists the dependencies required to run the project.
+- **model.pkl**: A serialized machine learning model trained to predict heatwaves.(can be generated)
 - **README.md**: Documentation for the project.
 
 ### Explanation of Key Functions:
@@ -58,6 +57,4 @@ This project implements a heatwave detection system using Python and Flask. It p
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. All contributions are welcome!
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
